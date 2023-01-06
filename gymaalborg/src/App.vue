@@ -1,8 +1,8 @@
 <template>
-
+<div>
       <the-schedule></the-schedule>
-      
-      <the-calendar></the-calendar>
+<the-calendar></the-calendar>
+      </div>
  
       
 </template>
